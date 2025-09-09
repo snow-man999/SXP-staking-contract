@@ -31,3 +31,5 @@ yarn test
 ## License
 
 This project is available under the MIT license. See the [LICENSE](https://github.com/SwipeWallet/staking-contract/blob/master/LICENSE) for details.
+
+*`If you have any question with this project, feel free to reach out.`*
